@@ -1,6 +1,6 @@
 # target-code
 
-## 目录结构
+## Structure
 
 - [raid-code](./raid-code)
   - [linux-4.19.36/drivers/md](./raid-code/linux-4.19.36/md): 内核态ko
@@ -9,7 +9,7 @@
   - [linux-4.19.36](./network-driver/linux-4.19.36): linux kernel 下的 [i40e](./network-driver/linux-4.19.36/i40e) / [i40evf](./network-driver/linux-4.19.36/i40evf) / [ixgbe](./network-driver/linux-4.19.36/ixgbe) / [ixgbevf](./network-driver/linux-4.19.36/ixgbevf) 驱动
   - [dpdk-19.05](./network-driver/dpdk-19.05): dpdk 下的 [i40e](./network-driver/dpdk-19.05/i40e) / [ixgbe](./network-driver/dpdk-19.05/ixgbe) / [mlx4](./network-driver/dpdk-19.05/mlx4) / [mlx5](./network-driver/dpdk-19.05/mlx5) 驱动
 
-## 相关链接
+## Links
 
 ### mdadm-4.1-rc2.0.2
 
