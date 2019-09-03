@@ -10,6 +10,7 @@
 + [DIFuze](https://github.com/ucsb-seclab/difuze): Fuzzer for Linux Kernel Drivers
 + [Razzer](https://github.com/compsec-snu/razzer): Finding kernel race bugs through fuzzing
 + [Trinity](https://github.com/kernelslacker/trinity): Linux system call fuzzer
++ [unicorefuzz](https://github.com/fgsect/unicorefuzz)
 
 
 
